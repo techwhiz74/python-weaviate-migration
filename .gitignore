@@ -1,0 +1,83 @@
+# Python artifacts  
+__pycache__/  
+*.pyc  
+*.pyo  
+*.pyd  
+*.pyc  
+  
+# Virtual environments  
+venv/  
+env/  
+.virtualenv/  
+  
+# Distribution and build artifacts  
+dist/  
+build/  
+*.egg-info/  
+  
+# Unit test and coverage reports  
+.coverage  
+.tox  
+nosetests.xml  
+  
+# Cache directories  
+__pycache__/  
+*.pytest_cache/  
+  
+# Temporary files  
+*.swp  
+*.swo  
+*~  
+  
+# OS generated files  
+.DS_Store  
+Thumbs.db  
+file_output.py
+file_structure.txt
+dist_notes.md
+
+# Python artifacts 
+*.pyc
+*.pyo
+*.pyd
+*.egg-info
+
+# Virtual environments
+venv/
+env/
+.virtualenv/
+
+# Distribution 
+dist/
+build/
+
+# Unit test artifacts
+.pytest_cache/
+.coverage
+.tox
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# Documentation 
+docs/build/
+
+# OS generated files 
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+
+# Python env files
+pip-logs/
+pip- wheels-cache/
+pip-downloads/
+pip-delete-this-directory.txt
+
+.idea/ 
+.vscode/ 
+pycache/
+*.pyc

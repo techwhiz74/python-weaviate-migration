@@ -1,0 +1,13 @@
+# Weaviate settings
+WEAVIATE_URL=https://my-sandbox-8j3jar08.weaviate.network
+WEAVIATE_API_KEY=
+WEAVIATE_HOST=localhost
+WEAVIATE_PORT=8080
+WEAVIATE_API_KEY=
+WEAVIATE_API_TOKEN=
+
+# Django settings 
+DJANGO_DEBUG=True
+DJANGO_SECRET_KEY=secretkey
+DJANGO_DATABASE_ENGINE=django.db.backends.sqlite3
+DJANGO_DATABASE_NAME=:memory:

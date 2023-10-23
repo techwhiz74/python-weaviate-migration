@@ -1,0 +1,30 @@
+{  
+  "classes": [  
+    {  
+      "class": "Person",  
+      "properties": [  
+        {  
+          "name": "name",  
+          "dataType": ["string"]  
+        },  
+        {  
+          "name": "age",  
+          "dataType": ["int"]  
+        }  
+      ]  
+    },  
+    {  
+      "class": "City",  
+      "properties": [  
+        {  
+          "name": "name",  
+          "dataType": ["string"]  
+        },  
+        {  
+          "name": "population",  
+          "dataType": ["int"]  
+        }  
+      ]  
+    }  
+  ]  
+}  
